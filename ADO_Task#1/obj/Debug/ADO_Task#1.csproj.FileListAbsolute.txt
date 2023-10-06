@@ -1,0 +1,7 @@
+C:\Users\Monkiell\source\repos\ADO_Task#1\ADO_Task#1\bin\Debug\ADO_Task#1.exe.config
+C:\Users\Monkiell\source\repos\ADO_Task#1\ADO_Task#1\bin\Debug\ADO_Task#1.exe
+C:\Users\Monkiell\source\repos\ADO_Task#1\ADO_Task#1\bin\Debug\ADO_Task#1.pdb
+C:\Users\Monkiell\source\repos\ADO_Task#1\ADO_Task#1\obj\Debug\ADO_Task#1.csproj.AssemblyReference.cache
+C:\Users\Monkiell\source\repos\ADO_Task#1\ADO_Task#1\obj\Debug\ADO_Task#1.csproj.CoreCompileInputs.cache
+C:\Users\Monkiell\source\repos\ADO_Task#1\ADO_Task#1\obj\Debug\ADO_Task#1.exe
+C:\Users\Monkiell\source\repos\ADO_Task#1\ADO_Task#1\obj\Debug\ADO_Task#1.pdb
