@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ADO_Task#1")]
+[assembly: AssemblyTitle("WinFOrms+ADO.NET")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ADO_Task#1")]
+[assembly: AssemblyProduct("WinFOrms+ADO.NET")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("61764603-da15-4e7d-bb8d-7ef293cf4f26")]
+[assembly: Guid("e659189f-6734-4640-a2e6-ba11d30855d2")]
 
 // Version information for an assembly consists of the following four values:
 //

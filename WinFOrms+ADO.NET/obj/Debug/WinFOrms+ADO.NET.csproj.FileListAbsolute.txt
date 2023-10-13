@@ -1,0 +1,10 @@
+C:\Users\Monkiell\source\repos\WinFOrms+ADO.NET\WinFOrms+ADO.NET\bin\Debug\WinFOrms+ADO.NET.exe.config
+C:\Users\Monkiell\source\repos\WinFOrms+ADO.NET\WinFOrms+ADO.NET\bin\Debug\WinFOrms+ADO.NET.exe
+C:\Users\Monkiell\source\repos\WinFOrms+ADO.NET\WinFOrms+ADO.NET\bin\Debug\WinFOrms+ADO.NET.pdb
+C:\Users\Monkiell\source\repos\WinFOrms+ADO.NET\WinFOrms+ADO.NET\obj\Debug\WinFOrms+ADO.NET.csproj.AssemblyReference.cache
+C:\Users\Monkiell\source\repos\WinFOrms+ADO.NET\WinFOrms+ADO.NET\obj\Debug\WinFOrms_ADO.NET.Form1.resources
+C:\Users\Monkiell\source\repos\WinFOrms+ADO.NET\WinFOrms+ADO.NET\obj\Debug\WinFOrms_ADO.NET.Properties.Resources.resources
+C:\Users\Monkiell\source\repos\WinFOrms+ADO.NET\WinFOrms+ADO.NET\obj\Debug\WinFOrms+ADO.NET.csproj.GenerateResource.cache
+C:\Users\Monkiell\source\repos\WinFOrms+ADO.NET\WinFOrms+ADO.NET\obj\Debug\WinFOrms+ADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\Monkiell\source\repos\WinFOrms+ADO.NET\WinFOrms+ADO.NET\obj\Debug\WinFOrms+ADO.NET.exe
+C:\Users\Monkiell\source\repos\WinFOrms+ADO.NET\WinFOrms+ADO.NET\obj\Debug\WinFOrms+ADO.NET.pdb
