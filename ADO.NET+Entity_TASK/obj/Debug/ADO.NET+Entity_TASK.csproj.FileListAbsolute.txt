@@ -1,0 +1,15 @@
+C:\Users\Monkiell\source\repos\ADO.NET+Entity_TASK\ADO.NET+Entity_TASK\bin\Debug\ADO.NET+Entity_TASK.exe.config
+C:\Users\Monkiell\source\repos\ADO.NET+Entity_TASK\ADO.NET+Entity_TASK\bin\Debug\ADO.NET+Entity_TASK.exe
+C:\Users\Monkiell\source\repos\ADO.NET+Entity_TASK\ADO.NET+Entity_TASK\bin\Debug\ADO.NET+Entity_TASK.pdb
+C:\Users\Monkiell\source\repos\ADO.NET+Entity_TASK\ADO.NET+Entity_TASK\bin\Debug\EntityFramework.dll
+C:\Users\Monkiell\source\repos\ADO.NET+Entity_TASK\ADO.NET+Entity_TASK\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monkiell\source\repos\ADO.NET+Entity_TASK\ADO.NET+Entity_TASK\bin\Debug\EntityFramework.xml
+C:\Users\Monkiell\source\repos\ADO.NET+Entity_TASK\ADO.NET+Entity_TASK\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Monkiell\source\repos\ADO.NET+Entity_TASK\ADO.NET+Entity_TASK\obj\Debug\ADO.NET+Entity_TASK.csproj.AssemblyReference.cache
+C:\Users\Monkiell\source\repos\ADO.NET+Entity_TASK\ADO.NET+Entity_TASK\obj\Debug\ADO.NET_Entity_TASK.Form1.resources
+C:\Users\Monkiell\source\repos\ADO.NET+Entity_TASK\ADO.NET+Entity_TASK\obj\Debug\ADO.NET_Entity_TASK.Properties.Resources.resources
+C:\Users\Monkiell\source\repos\ADO.NET+Entity_TASK\ADO.NET+Entity_TASK\obj\Debug\ADO.NET+Entity_TASK.csproj.GenerateResource.cache
+C:\Users\Monkiell\source\repos\ADO.NET+Entity_TASK\ADO.NET+Entity_TASK\obj\Debug\ADO.NET+Entity_TASK.csproj.CoreCompileInputs.cache
+C:\Users\Monkiell\source\repos\ADO.NET+Entity_TASK\ADO.NET+Entity_TASK\obj\Debug\ADO.NET+Entity_TASK.csproj.CopyComplete
+C:\Users\Monkiell\source\repos\ADO.NET+Entity_TASK\ADO.NET+Entity_TASK\obj\Debug\ADO.NET+Entity_TASK.exe
+C:\Users\Monkiell\source\repos\ADO.NET+Entity_TASK\ADO.NET+Entity_TASK\obj\Debug\ADO.NET+Entity_TASK.pdb
